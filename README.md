@@ -1,2 +1,2 @@
 # pySnakeGame
-A classic Snake game. Only for real bros, thanks in advance.
+A classic Snake game. Only for real ones, thanks in advance.
